@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Spinify",
+    "description": "Spin the Spotify playlist and let fate choose your next song.",
+    "preview": "preview.png",
+    "main": "extensions/spinify.js",
+    "readme": "README.md",
+    "authors": [
+      {
+        "name": "thorryn1",
+        "url": "https://github.com/thorryn1"
+      }
+    ],
+    "tags": [
+      "random",
+      "playlist",
+      "fun",
+      "music"
+    ]
+  }
+]
